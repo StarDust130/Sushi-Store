@@ -3,7 +3,7 @@
 
  <h2>Live Link 🌐</h2>
     <p>Experience the deliciousness of Sushi-Store right now:</p>
-    <a href="https://stardust-sushi-store.netlify.app" target="_blank">Visit Sushi-Store</a>
+    <h3><a href="https://stardust-sushi-store.netlify.app" target="_blank">Visit Sushi-Store</a></h3>
 
   <h2>Installation 🚀</h2>
     <p>To get started and install the project dependencies, simply run:</p>
