@@ -8,6 +8,17 @@
   <h2>Installation 🚀</h2>
     <p>To get started and install the project dependencies, simply run:</p>
     <pre><code>npm install</code></pre>
+    
+<h2>Technology Stack 🛠️</h2>
+    <ul>
+        <li>React.js ⚛️</li>
+        <li>JavaScript (ES6) ⚙️</li>
+        <li>HTML5 🌐</li>
+        <li>CSS3 🎨</li>
+        <li>React Router 🚀</li>
+        <li>Netlify 🌟</li>
+        <li>Vite 🌀</li>
+    </ul>
 
   <h2>Usage 🍽️</h2>
     <p>Launch the development server by executing:</p>
