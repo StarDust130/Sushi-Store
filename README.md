@@ -1,6 +1,10 @@
 <h1>🍣 Sushi-Store 🍱</h1>
     <p>Welcome to the Sushi-Store project! This is a delightful web application that brings the flavors of sushi to your screen. 🍣🍱</p>
 
+ <h2>Live Link 🌐</h2>
+    <p>Experience the deliciousness of Sushi-Store right now:</p>
+    <a href="https://stardust-sushi-store.netlify.app" target="_blank">Visit Sushi-Store</a>
+
   <h2>Installation 🚀</h2>
     <p>To get started and install the project dependencies, simply run:</p>
     <pre><code>npm install</code></pre>
