@@ -8,6 +8,7 @@
   <h2>Installation 🚀</h2>
     <p>To get started and install the project dependencies, simply run:</p>
     <pre><code>npm install</code></pre>
+
     
 <h2>Technology Stack 🛠️</h2>
     <ul>
