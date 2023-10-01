@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import BannerImage from "../assets/Home-page.jpg";
 import "../styles/home.css";
 
+
 function Home() {
   return (
     <>
